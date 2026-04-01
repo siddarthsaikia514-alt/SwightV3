@@ -24,14 +24,14 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Moderating Zeor's Hometown" 
-        // Activity type number (0 = Playing).
-        type: 0, 
-      },
-    ],
-  },
-
+  // Text users will see (example: "Playing /help | Titan Bot").
+  name: "Moderating Zeor's Hometown",
+  
+  // Activity type number (0 = Playing).
+  type: 0,
+},
+],
+},
   // =========================
   // COMMAND BEHAVIOR
   // =========================
